@@ -6,3 +6,6 @@ Creating a database and adding information of various Employees , Calculating th
 
 # Message-Sending-Using-Python
 We can send messages to anyone using Python Programming ,by making a GUI using Tkinter and using requests module.
+
+# TicTacToe-Using-Pygame
+We can create and play the simple tictactoe game by using the pygame library.
